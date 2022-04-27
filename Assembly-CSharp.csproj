@@ -160,7 +160,6 @@
     <Compile Include="Assets\Scripts\MoveController.cs" />
     <Compile Include="Assets\Scripts\PickObject.cs" />
     <Compile Include="Assets\Scripts\RotateCart.cs" />
-    <Compile Include="Assets\Scripts\UDPClient.cs" />
     <Compile Include="Assets\Scripts\UdpSocket.cs" />
     <Compile Include="Assets\Simple Helvetica\SimpleHelvetica.cs" />
   </ItemGroup>
